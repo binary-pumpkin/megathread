@@ -2,10 +2,8 @@
 
 # 🧭 ➜ [Megathread](https://rentry.co/megathread) / **All Purpose**
  
-!!! warning ➜ Quick reminder
-    - ✔️ All links have been reviewed and approved by moderators, but proceed with caution.
-    - 👍🏻 Rather having an enormous variety, our [Megathread](https://rentry.co/megathread) provides only the finest options.
-    - 🐐 [GOAT](https://www.urbandictionary.com/define.php?term=goat) status = Highly regarded by the pirate community.
+Warning : DONT TRUST ALL THINGS HERE
+🐐Goat means that it is a fav of the community.
 
 &nbsp;
 
