@@ -1,19 +1,9 @@
--> ![](https://a.imagem.app/bPcB7Y.png) <-
 
-# 🧭 ➜ [Megathread](https://rentry.co/megathread) / **All Purpose**
+# 🧭 ➜ [Megathread](https://github.com/binary-pumpkin/megathread/tree/main) / **All Purpose**
  
 Warning : DONT TRUST ALL THINGS HERE
 🐐Goat means that it is a fav of the community.
 
-&nbsp;
-
----
-
-&nbsp;
-
-# 📝 ➜ Table of Contents
-
-[TOC]
 
 &nbsp;
 
@@ -159,5 +149,5 @@ WEBSITE | URL
 
 &nbsp;
 
-📜 ❮ Return to [**Megathread**](https://rentry.co/megathread)
+📜 ❮ Return to [**Megathread**](https://github.com/binary-pumpkin/megathread/tree/main)
 ---
