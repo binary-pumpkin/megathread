@@ -2,7 +2,8 @@
 # 🧭 ➜ [Megathread](https://github.com/binary-pumpkin/megathread/tree/main) / **All Purpose**
  
 Warning : DONT TRUST ALL THINGS HERE
-🐐Goat means that it is a fav of the community.
+
+-🐐Goat means that it is a fav of the community.
 
 
 &nbsp;
