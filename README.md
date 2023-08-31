@@ -1,3 +1,5 @@
+# 📝 ➜ Table of Contents
+
 ### 🧭 [All Purpose](https://rentry.co/megathread-all-purpose)
 - All Purpose sites for torrent search engines, aggregators & DHT crawlers in order to find as much public content as possible.
 
