@@ -227,17 +227,7 @@
 
 ### 🧲 [Tokyo Toshokan](https://www.tokyotosho.info/?cat=1)
 - Wonderful source to acquire all of your Japanese content, such as anime, comics, music, and more.
-- [URL Safety Results](https://www.urlvoid.com/scan/tokyotosho.info)
-
-&nbsp;
-
----
-
-&nbsp;
-
--> ![](https://a.imagem.app/bPcHV9.png) <-
-
-# ➜ Check out our 🧭 [All Purpose](https://rentry.co/megathread-all-purpose) section
+- [URL Safety Results](https://www.urlvoid.com/scan/tokyotosho.info
 
 &nbsp;
 
