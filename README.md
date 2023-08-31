@@ -2,36 +2,10 @@
 
 # 📜 ➜ **Megathread**
 
-!!! info ➜ Not so fast sailor! Do this first
-    - [x] Use [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) with these [optimized         settings](https://a.imagem.app/b4Xvje.png) (*Blocks advertisements & malware*).
-    - [x] Change your DNS settings to one of [these great choices](https://www.privacyguides.org/en/dns/) (*Bypasses website access limitations*).
-    - [x] Use a reputable torrent client with a kill switch, such as [qBittorrent](https://www.qbittorrent.org/) (*Allows torrenting*).
-    - [x] Set up a VPN such as [Mullvad](https://mullvad.net/) or [ProtonVPN](https://protonvpn.com/) (*Changes IP address to hide identity*).
-    - [x] Bind your torrent client to the VPN (*Only allows torrenting when VPN is active*).
 
-!!! note ➜ Bookmark this URL
-	- ✅ This **Megathread is often updated** and subject to rigorous quality control checks.
-    - Visit both our [**r/Piracy**](https://www.reddit.com/r/Piracy/) and [**r/torrents**](https://www.reddit.com/r/torrents/) subreddits for all the sailing discussions.
-
-!!! danger ➜ Disclaimer
-	- In the Megathread, trustworthy links that were formerly safe may occasionally turn hazardous.
-	- The moderators and contributors do their best to maintain it, but always use care while sailing on the seas.
-
-&nbsp;
-
----
-
-&nbsp;
 
 # 📝 ➜ Table of Contents
 
-[TOC]
-
-&nbsp;
-
----
-
-&nbsp;
 
 # 🏆 ➜ Greatest Treasures
 
