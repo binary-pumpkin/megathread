@@ -6,7 +6,7 @@
    
     - 👍🏻 Rather having an enormous variety, our [Megathread](https://rentry.co/megathread) provides only the finest options.
    
-    - 🐐 [GOAT](https://www.urbandictionary.com/define.php?term=goat) status = Highly regarded by the pirate community.
+    - 🐐 [GOAT] status = Highly regarded by the pirate community.
 
 &nbsp;
 
