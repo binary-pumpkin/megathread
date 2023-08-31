@@ -41,7 +41,7 @@
 
 # 📑 ➜ Other Treasures
 
-### 📁 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
+### 📁 [Awesome Piracy](https://binary-pumpkin.github.io/awesome-piracy/)
 ### 📁 [Champagne Piracy Wiki](https://champagne.pages.dev/)
 ### 📁 [Ducklink](https://ducklink.pages.dev/)
 ### 📁 [FMHY](https://fmhy.pages.dev/)
