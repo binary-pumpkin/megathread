@@ -8,6 +8,9 @@ This is not mine, it is a archive of the [Piracy Megathread](https://rentry.org/
 &nbsp;
 # 📝 ➜ Table of Contents
 
+### 🏆 [Personal Favs](https://github.com/binary-pumpkin/megathread/blob/main/Personal%20Favs.md)
+-Just some of the things personaly use and love.
+
 ### 🧭 [All Purpose](https://github.com/binary-pumpkin/megathread/blob/main/All%20Purpose.md)
 - All Purpose sites for torrent search engines, aggregators & DHT crawlers in order to find as much public content as possible.
 
