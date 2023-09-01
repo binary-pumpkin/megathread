@@ -1,4 +1,4 @@
-# 🎮 ➜ Games
+# 🎮 Games
 
 ### 🏆 [DODI Repacks](https://dodi-repacks.site/)
 - Very well-known name in the field. This repacker is considered to be one of the finest in the pirated video game sector.
@@ -12,7 +12,12 @@
 - Oldschool rippers who, for at least the past two decades, have been producing rips and repacks at their own speed.
 - [URL Safety Results](https://www.urlvoid.com/scan/kaoskrew.org/)
 
-# 🎥 ➜ Movies & TV
+#🕹️ Emulators & Roms
+
+### 🏆 [Vimm's Lair](https://vimm.net/?p=vault)]
+- One of the best rom websites out there.
+
+# 🎥 Movies & TV
 
 ### 🐐 [4K Movies](https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w)
 - Amazing assortment of outstanding quality movies that are offered for super quick direct download through the Mega file service.
@@ -34,3 +39,10 @@
 - A fantastic selection of free high-definition movies and series. New content and episodes are uploaded on an hourly basis.
 - [URL Safety Results](https://www.urlvoid.com/scan/myflixerz.to/)
 
+# 🔨 Misc & Tools
+
+### 🏆 [uBlock origin](https://github.com/gorhill/uBlock#installation)
+- Probobly the best addblocker in the world.
+
+### 🏆 [qBittorrent](https://www.qbittorrent.org/download.php)
+- The best torrenting sowftware there is.
