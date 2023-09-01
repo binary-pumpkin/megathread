@@ -14,7 +14,7 @@
 - Oldschool rippers who, for at least the past two decades, have been producing rips and repacks at their own speed.
 - [URL Safety Results](https://www.urlvoid.com/scan/kaoskrew.org/)
 
-#🕹️ Emulators & Roms
+# 🕹️ Emulators & Roms
 
 ### 🏆 [Vimm's Lair](https://vimm.net/?p=vault)]
 - One of the best rom websites out there.
