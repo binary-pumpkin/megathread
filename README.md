@@ -1,6 +1,5 @@
 # 🚨 Disclamer
-
-This is not mine, it is a archive of the [Piracy Megathread](https://rentry.org/megathread). I have merely archived it as a gitub repository for me and my friends with a few person opinions.
+- This is not mine, it is a archive of the [Piracy Megathread](https://rentry.org/megathread). I have merely archived it as a gitub repository for me and my friends with a few person opinions.
 &nbsp;
 
 ---
@@ -58,3 +57,13 @@ This is not mine, it is a archive of the [Piracy Megathread](https://rentry.org/
 ### 📁 [FMHY](https://fmhy.pages.dev/)
 ### 📁 [Ripped](https://ripped.guide/)
 ### 📁 [Wotaku](https://wotaku.pages.dev/)
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# 📝  Notes
+- For game repacks, alwayse select the torrent option, its the most effecient way. I highly recommend using [Qbittorrent](https://www.qbittorrent.org/download).
+- I also highly recommend using [Ublock origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) to avoid all those fucking pop-ups.
