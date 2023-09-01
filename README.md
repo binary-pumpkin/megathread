@@ -65,5 +65,5 @@
 &nbsp;
 
 # 📝  Notes
-- For game repacks, alwayse select the torrent option, its the most effecient way. I highly recommend using [Qbittorrent](https://www.qbittorrent.org/download).
+- For game repacks, always select the torrent option, its the most effecient way. I highly recommend using [Qbittorrent](https://www.qbittorrent.org/download).
 - I also highly recommend using [Ublock origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) to avoid all those fucking pop-ups.
