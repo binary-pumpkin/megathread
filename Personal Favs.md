@@ -44,7 +44,7 @@
 # 🔨 Misc & Tools
 
 ### 🏆 [uBlock origin](https://github.com/gorhill/uBlock#installation)
-- Probobly the best addblocker in the world.
+- Probably the best addblocker in the world.
 
 ### 🏆 [qBittorrent](https://www.qbittorrent.org/download.php)
 - The best torrenting sowftware there is.
