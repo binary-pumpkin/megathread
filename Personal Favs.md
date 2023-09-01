@@ -16,7 +16,7 @@
 
 # 🕹️ Emulators & Roms
 
-### 🏆 [Vimm's Lair](https://vimm.net/?p=vault)]
+### 🏆 [Vimm's Lair](https://vimm.net/?p=vault)
 - One of the best rom websites out there.
 
 # 🎥 Movies & TV
