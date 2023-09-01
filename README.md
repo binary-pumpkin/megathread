@@ -1,5 +1,5 @@
 # 🚨 Disclamer
-- This is not mine, it is a archive of the [Piracy Megathread](https://rentry.org/megathread). I have merely archived it as a gitub repository for me and my friends with a few person opinions.
+- This is not mine, it is a copy of the [Piracy Megathread](https://rentry.org/megathread). I have merely archived it as a gitub repository for me and my friends with a few person opinions.
 &nbsp;
 
 ---
