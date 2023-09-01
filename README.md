@@ -67,3 +67,4 @@
 # 📝  Notes
 - For game repacks, always select the torrent option, its the most effecient way. I highly recommend using [Qbittorrent](https://www.qbittorrent.org/download).
 - I also highly recommend using [Ublock origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) to avoid all those fucking pop-ups.
+- It is also reccomended to use a vpn, there are some great free vpns such as [Mullvad](https://mullvad.net/) or [ProtonVPN](https://protonvpn.com/) (i personaly like ProtonVPN)
