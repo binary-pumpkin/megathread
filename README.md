@@ -1,3 +1,11 @@
+# 🚨 Disclamer
+
+This is not mine, it is a archive of the [Piracy Megathread](https://rentry.org/megathread). I have merely archived it as a gitub repository for me and my friends with a few person opinions.
+&nbsp;
+
+---
+
+&nbsp;
 # 📝 ➜ Table of Contents
 
 ### 🧭 [All Purpose](https://github.com/binary-pumpkin/megathread/blob/main/All%20Purpose.md)
